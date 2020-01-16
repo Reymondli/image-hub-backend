@@ -1,0 +1,23 @@
+{
+  "name": "image-hub-backend",
+  "version": "1.0.0",
+  "description": "Backend of ImageHub Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reymondli/image-hub-backend.git"
+  },
+  "author": "Ziming Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reymondli/image-hub-backend/issues"
+  },
+  "homepage": "https://github.com/Reymondli/image-hub-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
